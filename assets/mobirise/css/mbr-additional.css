@@ -1696,47 +1696,6 @@ a {
 .cid-uzonatzCFD .mbr-section-btn {
   color: #bbbbbb;
 }
-.cid-uzomgYEDnX {
-  background-image: url("../../../assets/images/dominica-4.jpg");
-}
-.cid-uzomgYEDnX .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzomgYEDnX .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uzomgYEDnX .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uzomgYEDnX .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 50%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uzomgYEDnX audio {
-    width: 100% !important;
-  }
-}
-.cid-uzomgYEDnX audio {
-  margin: auto;
-  display: block;
-}
-.cid-uzomgYEDnX .mbr-section-title {
-  color: #525252;
-}
-.cid-uzomgYEDnX .mbr-text,
-.cid-uzomgYEDnX .mbr-section-btn {
-  color: #bbbbbb;
-}
 .cid-uzojiQWNat {
   background-image: url("../../../assets/images/dominica-3.jpg");
 }
@@ -2107,7 +2066,7 @@ a {
   color: #bbbbbb;
 }
 .cid-uzoMP2MbXa {
-  background-image: url("../../../assets/images/split-2.jpg");
+  background-image: url("../../../assets/images/split-background-3.jpg");
 }
 .cid-uzoMP2MbXa .mbr-fallback-image.disabled {
   display: none;
@@ -2145,47 +2104,6 @@ a {
 }
 .cid-uzoMP2MbXa .mbr-text,
 .cid-uzoMP2MbXa .mbr-section-btn {
-  color: #bbbbbb;
-}
-.cid-uzoTpoHxES {
-  background-image: url("../../../assets/images/split-background-3.jpg");
-}
-.cid-uzoTpoHxES .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzoTpoHxES .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uzoTpoHxES .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uzoTpoHxES .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 60%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uzoTpoHxES audio {
-    width: 100% !important;
-  }
-}
-.cid-uzoTpoHxES audio {
-  margin: auto;
-  display: block;
-}
-.cid-uzoTpoHxES .mbr-section-title {
-  color: #525252;
-}
-.cid-uzoTpoHxES .mbr-text,
-.cid-uzoTpoHxES .mbr-section-btn {
   color: #bbbbbb;
 }
 .cid-uzoV0Qg7Ju {

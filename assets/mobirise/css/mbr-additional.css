@@ -1450,13 +1450,13 @@ a {
 .cid-uzoobv6mNA .mbr-section-btn {
   color: #bbbbbb;
 }
-.cid-uzlFwwpKvQ {
-  background-image: url("../../../assets/images/mexico-4.jpg");
+.cid-uzuf5uVEC0 {
+  background-image: url("../../../assets/images/mexico-city-background.jpg");
 }
-.cid-uzlFwwpKvQ .mbr-fallback-image.disabled {
+.cid-uzuf5uVEC0 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uzlFwwpKvQ .mbr-fallback-image {
+.cid-uzuf5uVEC0 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1465,71 +1465,30 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uzlFwwpKvQ .image-wrap img {
+.cid-uzuf5uVEC0 .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-uzlFwwpKvQ .image-wrap img {
+  .cid-uzuf5uVEC0 .image-wrap img {
     display: block;
     margin: auto;
-    width: 60%;
+    width: 70%;
   }
 }
 @media (max-width: 768px) {
-  .cid-uzlFwwpKvQ audio {
+  .cid-uzuf5uVEC0 audio {
     width: 100% !important;
   }
 }
-.cid-uzlFwwpKvQ audio {
+.cid-uzuf5uVEC0 audio {
   margin: auto;
   display: block;
 }
-.cid-uzlFwwpKvQ .mbr-section-title {
+.cid-uzuf5uVEC0 .mbr-section-title {
   color: #525252;
 }
-.cid-uzlFwwpKvQ .mbr-text,
-.cid-uzlFwwpKvQ .mbr-section-btn {
-  color: #bbbbbb;
-}
-.cid-uzlINe44Sk {
-  background-image: url("../../../assets/images/manchester-1.jpg");
-}
-.cid-uzlINe44Sk .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzlINe44Sk .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uzlINe44Sk .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uzlINe44Sk .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 60%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uzlINe44Sk audio {
-    width: 100% !important;
-  }
-}
-.cid-uzlINe44Sk audio {
-  margin: auto;
-  display: block;
-}
-.cid-uzlINe44Sk .mbr-section-title {
-  color: #525252;
-}
-.cid-uzlINe44Sk .mbr-text,
-.cid-uzlINe44Sk .mbr-section-btn {
+.cid-uzuf5uVEC0 .mbr-text,
+.cid-uzuf5uVEC0 .mbr-section-btn {
   color: #bbbbbb;
 }
 .cid-uzcRxLYy3l {
@@ -1858,5 +1817,46 @@ a {
 }
 .cid-uzoMP2MbXa .mbr-text,
 .cid-uzoMP2MbXa .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-uzlINe44Sk {
+  background-image: url("../../../assets/images/manchester-1.jpg");
+}
+.cid-uzlINe44Sk .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uzlINe44Sk .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uzlINe44Sk .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-uzlINe44Sk .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 60%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-uzlINe44Sk audio {
+    width: 100% !important;
+  }
+}
+.cid-uzlINe44Sk audio {
+  margin: auto;
+  display: block;
+}
+.cid-uzlINe44Sk .mbr-section-title {
+  color: #525252;
+}
+.cid-uzlINe44Sk .mbr-text,
+.cid-uzlINe44Sk .mbr-section-btn {
   color: #bbbbbb;
 }

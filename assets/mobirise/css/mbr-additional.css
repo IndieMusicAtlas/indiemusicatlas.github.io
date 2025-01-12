@@ -935,7 +935,7 @@ a {
   z-index: 0;
   -webkit-animation-duration: 35s !important;
   animation-duration: 35s;
-  background-image: url("../../../assets/images/mobile-map-background90.png");
+  background-image: url("../../../assets/images/mobile-map-background90-high-center.png");
   -webkit-animation: scroll-wrapper linear infinite;
   -moz-animation: scroll-wrapper linear infinite;
   -o-animation: scroll-wrapper linear infinite;
@@ -991,38 +991,6 @@ a {
     -webkit-transform: translateX(-100%);
     transform: translateX(-100%);
   }
-}
-.cid-uzobPVCMkz {
-  background-image: url("../../../assets/images/mobile-map-background90.png");
-}
-.cid-uzobPVCMkz .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzobPVCMkz .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uzobPVCMkz .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uzobPVCMkz .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 100%;
-  }
-}
-.cid-uzobPVCMkz .mbr-section-title {
-  color: #ffffff;
-}
-.cid-uzobPVCMkz .mbr-text,
-.cid-uzobPVCMkz .mbr-section-btn {
-  color: #bbbbbb;
 }
 .cid-uzpUN0jNe7 {
   padding-top: 2rem;

@@ -911,9 +911,7 @@ a {
   color: #ffffff;
 }
 .cid-uzobPVCMkz {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/map-background.png");
+  background-image: url("../../../assets/images/mobile-map-background90.png");
 }
 .cid-uzobPVCMkz .mbr-fallback-image.disabled {
   display: none;
@@ -1434,7 +1432,7 @@ a {
 }
 .cid-uzCp9FTwRy .mbr-text,
 .cid-uzCp9FTwRy .mbr-section-btn {
-  color: #1c1c1c;
+  color: #353535;
 }
 .cid-uzoobv6mNA {
   background-image: url("../../../assets/images/kyiv-3.jpg");
@@ -1557,47 +1555,6 @@ a {
 }
 .cid-uzcRxLYy3l .mbr-text,
 .cid-uzcRxLYy3l .mbr-section-btn {
-  color: #bbbbbb;
-}
-.cid-uzonatzCFD {
-  background-image: url("../../../assets/images/dominica-5.jpg");
-}
-.cid-uzonatzCFD .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzonatzCFD .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uzonatzCFD .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uzonatzCFD .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 50%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uzonatzCFD audio {
-    width: 100% !important;
-  }
-}
-.cid-uzonatzCFD audio {
-  margin: auto;
-  display: block;
-}
-.cid-uzonatzCFD .mbr-section-title {
-  color: #525252;
-}
-.cid-uzonatzCFD .mbr-text,
-.cid-uzonatzCFD .mbr-section-btn {
   color: #bbbbbb;
 }
 .cid-uzox1dnvUY {
@@ -1765,7 +1722,7 @@ a {
   color: #bbbbbb;
 }
 .cid-uzpSgpkYZl {
-  background-image: url("../../../assets/images/1940sradio-background.jpg");
+  background-image: url("../../../assets/images/1940s-radio-background.jpg");
 }
 .cid-uzpSgpkYZl .mbr-fallback-image.disabled {
   display: none;
@@ -1926,5 +1883,46 @@ a {
 }
 .cid-uzlINe44Sk .mbr-text,
 .cid-uzlINe44Sk .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-uzHFBvQV1O {
+  background-image: url("../../../assets/images/dominica-background-2.jpg");
+}
+.cid-uzHFBvQV1O .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uzHFBvQV1O .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uzHFBvQV1O .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-uzHFBvQV1O .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 60%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-uzHFBvQV1O audio {
+    width: 100% !important;
+  }
+}
+.cid-uzHFBvQV1O audio {
+  margin: auto;
+  display: block;
+}
+.cid-uzHFBvQV1O .mbr-section-title {
+  color: #525252;
+}
+.cid-uzHFBvQV1O .mbr-text,
+.cid-uzHFBvQV1O .mbr-section-btn {
   color: #bbbbbb;
 }

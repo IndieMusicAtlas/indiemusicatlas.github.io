@@ -25,7 +25,13 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  
+  <script>
+      $(function() {
+    // <div id="player"></div> will be an empty div
+    $('#player').load('/script');
+});
+    </script>
+
   
 
 </head>
@@ -48,16 +54,20 @@
                 <div class="image-wrap mb-4">
                     <img src="assets/images/chirp-radio-page-4-1149x431.png" alt="IndieMusicAtlas.com">
                 </div>
-<!-- ----------------------STREAMER / MUSIC PLAYER ---------------------------   -->                
-                 <figure class="mbr-figure align-center">
+<!-- ----------------------STREAMER / MUSIC PLAYER ---------------------------   --> 
+<div id="player">
+   <figure class="mbr-figure align-center">
       <audio controls="">
         <source type="audio/mpeg" src="https://peridot.streamguys1.com:5185/live">
       </audio>
     </figure>
-<!-- ----------------------TEXT / LINKS ---------------------------   -->                 
+     </div>           
+
+<!-- ----------------------TEXT / LINKS ---------------------------   -->
+                <div>
                 <br>
                 <p class="mbr-text mbr-fonts-style display-4"><a href="https://chirpradio.org/in-browser" class="text-primary" target="_blank">CHIRP RADIO PLAYER →&nbsp;</a><br><a href="index.html" class="text-primary">← BACK TO DIRECTORY</a></p>
-                
+                </div>
     
                 
                </div>

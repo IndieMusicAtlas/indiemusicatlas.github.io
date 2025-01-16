@@ -27,7 +27,13 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  
+  <script>
+      $(function() {
+    // <div id="player"></div> will be an empty div
+    $('#player').load('/script');
+});
+    </script>
+
   
 
 </head>
@@ -46,15 +52,22 @@
                 <div class="image-wrap mb-4">
                     <img src="assets/images/kexp-seattle-.png" alt="IndieMusicAtlas">
                 </div>
-                 <figure class="mbr-figure align-center">
+         
+                <!-- ----------------------STREAMER / MUSIC PLAYER ---------------------------   --> 
+<div id="player">
+   <figure class="mbr-figure align-center">
       <audio controls="">
         <source type="audio/mpeg" src="https://kexp.streamguys1.com">
       </audio>
     </figure>
+     </div>           
+
+                
+   <div>             
                 <br>
                 <p class="mbr-text mbr-fonts-style display-4"><a href="https://kexp.org/playlist/" class="text-primary" target="_blank">KEXP PLAYER →&nbsp;</a><br><a href="index.html" class="text-primary">← BACK TO DIRECTORY</a></p>
                 
- 
+                </div>
                 
                 
             </div>

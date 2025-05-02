@@ -1178,37 +1178,6 @@ a {
 .cid-uJOEVyEMwY .mbr-description {
   color: #000000;
 }
-.cid-uzpUEHkWJW {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #0f0f0f;
-}
-.cid-uzpUEHkWJW .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzpUEHkWJW .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-uzpUEHkWJW .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-uzpUEHkWJW .row {
-  flex-direction: row-reverse;
-}
-.cid-uzpUEHkWJW img {
-  width: 100%;
-}
-.cid-uzpUEHkWJW .mbr-description {
-  color: #000000;
-}
 .cid-uzpWlv3nXI {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1238,6 +1207,37 @@ a {
   width: 100%;
 }
 .cid-uzpWlv3nXI .mbr-description {
+  color: #000000;
+}
+.cid-uzpUEHkWJW {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0f0f0f;
+}
+.cid-uzpUEHkWJW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uzpUEHkWJW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uzpUEHkWJW .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uzpUEHkWJW .row {
+  flex-direction: row-reverse;
+}
+.cid-uzpUEHkWJW img {
+  width: 100%;
+}
+.cid-uzpUEHkWJW .mbr-description {
   color: #000000;
 }
 .cid-uzpUYbJPjR {
@@ -1393,6 +1393,37 @@ a {
   width: 100%;
 }
 .cid-uzpUXJrUdQ .mbr-description {
+  color: #000000;
+}
+.cid-uJZI9HT45r {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0f0f0f;
+}
+.cid-uJZI9HT45r .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uJZI9HT45r .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uJZI9HT45r .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uJZI9HT45r .row {
+  flex-direction: row-reverse;
+}
+.cid-uJZI9HT45r img {
+  width: 100%;
+}
+.cid-uJZI9HT45r .mbr-description {
   color: #000000;
 }
 .cid-uzpUX3Kv92 {
@@ -2159,5 +2190,46 @@ a {
 }
 .cid-uJOA7UqGl5 .mbr-text,
 .cid-uJOA7UqGl5 .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-uJZIEFZdil {
+  background-image: url("../../../assets/images/mannheim-background.jpg");
+}
+.cid-uJZIEFZdil .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uJZIEFZdil .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uJZIEFZdil .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-uJZIEFZdil .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-uJZIEFZdil audio {
+    width: 100% !important;
+  }
+}
+.cid-uJZIEFZdil audio {
+  margin: auto;
+  display: block;
+}
+.cid-uJZIEFZdil .mbr-section-title {
+  color: #525252;
+}
+.cid-uJZIEFZdil .mbr-text,
+.cid-uJZIEFZdil .mbr-section-btn {
   color: #bbbbbb;
 }

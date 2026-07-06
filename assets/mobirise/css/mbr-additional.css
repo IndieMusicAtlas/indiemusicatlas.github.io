@@ -1240,6 +1240,37 @@ a {
 .cid-uzpUX3Kv92 .mbr-description {
   color: #000000;
 }
+.cid-voCdGoIIP8 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0f0f0f;
+}
+.cid-voCdGoIIP8 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-voCdGoIIP8 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-voCdGoIIP8 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-voCdGoIIP8 .row {
+  flex-direction: row-reverse;
+}
+.cid-voCdGoIIP8 img {
+  width: 100%;
+}
+.cid-voCdGoIIP8 .mbr-description {
+  color: #000000;
+}
 .cid-uzcSR2GY3Q {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1751,47 +1782,6 @@ a {
 .cid-uzoDqfzR3n .mbr-section-btn {
   color: #bbbbbb;
 }
-.cid-uzp5oYnFiG {
-  background-image: url("../../../assets/images/berlin-background.jpg");
-}
-.cid-uzp5oYnFiG .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzp5oYnFiG .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uzp5oYnFiG .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uzp5oYnFiG .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 50%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uzp5oYnFiG audio {
-    width: 100% !important;
-  }
-}
-.cid-uzp5oYnFiG audio {
-  margin: auto;
-  display: block;
-}
-.cid-uzp5oYnFiG .mbr-section-title {
-  color: #525252;
-}
-.cid-uzp5oYnFiG .mbr-text,
-.cid-uzp5oYnFiG .mbr-section-btn {
-  color: #bbbbbb;
-}
 .cid-uJR6tH81yn {
   background-image: url("../../../assets/images/auditorium-theatre-dance-floor.jpg");
 }
@@ -2159,5 +2149,87 @@ a {
 }
 .cid-uJOA7UqGl5 .mbr-text,
 .cid-uJOA7UqGl5 .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-uzp5oYnFiG {
+  background-image: url("../../../assets/images/berlin-background.jpg");
+}
+.cid-uzp5oYnFiG .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uzp5oYnFiG .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uzp5oYnFiG .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-uzp5oYnFiG .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-uzp5oYnFiG audio {
+    width: 100% !important;
+  }
+}
+.cid-uzp5oYnFiG audio {
+  margin: auto;
+  display: block;
+}
+.cid-uzp5oYnFiG .mbr-section-title {
+  color: #525252;
+}
+.cid-uzp5oYnFiG .mbr-text,
+.cid-uzp5oYnFiG .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-voC6qvRUPa {
+  background-image: url("../../../assets/images/skopje-background.jpg");
+}
+.cid-voC6qvRUPa .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-voC6qvRUPa .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-voC6qvRUPa .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-voC6qvRUPa .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 60%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-voC6qvRUPa audio {
+    width: 100% !important;
+  }
+}
+.cid-voC6qvRUPa audio {
+  margin: auto;
+  display: block;
+}
+.cid-voC6qvRUPa .mbr-section-title {
+  color: #525252;
+}
+.cid-voC6qvRUPa .mbr-text,
+.cid-voC6qvRUPa .mbr-section-btn {
   color: #bbbbbb;
 }

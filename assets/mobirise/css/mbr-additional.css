@@ -1302,6 +1302,37 @@ a {
 .cid-uzpWlO0N7h .mbr-description {
   color: #000000;
 }
+.cid-voIC7csd4J {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0f0f0f;
+}
+.cid-voIC7csd4J .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-voIC7csd4J .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-voIC7csd4J .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-voIC7csd4J .row {
+  flex-direction: row-reverse;
+}
+.cid-voIC7csd4J img {
+  width: 100%;
+}
+.cid-voIC7csd4J .mbr-description {
+  color: #000000;
+}
 .cid-uzpUEHkWJW {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -2224,7 +2255,7 @@ a {
   color: #bbbbbb;
 }
 .cid-voC6qvRUPa {
-  background-image: url("../../../assets/images/skopje-background.jpg");
+  background-image: url("../../../assets/images/skojpe-bw-3.jpg");
 }
 .cid-voC6qvRUPa .mbr-fallback-image.disabled {
   display: none;
@@ -2303,5 +2334,46 @@ a {
 }
 .cid-voIfLQOx99 .mbr-text,
 .cid-voIfLQOx99 .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-voIxHPyQix {
+  background-image: url("../../../assets/images/dublin-city-view.jpg");
+}
+.cid-voIxHPyQix .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-voIxHPyQix .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-voIxHPyQix .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-voIxHPyQix .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-voIxHPyQix audio {
+    width: 100% !important;
+  }
+}
+.cid-voIxHPyQix audio {
+  margin: auto;
+  display: block;
+}
+.cid-voIxHPyQix .mbr-section-title {
+  color: #525252;
+}
+.cid-voIxHPyQix .mbr-text,
+.cid-voIxHPyQix .mbr-section-btn {
   color: #bbbbbb;
 }

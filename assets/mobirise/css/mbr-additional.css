@@ -1147,6 +1147,37 @@ a {
 .cid-uzcSPeISnW .mbr-description {
   color: #000000;
 }
+.cid-uzpWlO0N7h {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0f0f0f;
+}
+.cid-uzpWlO0N7h .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uzpWlO0N7h .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uzpWlO0N7h .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uzpWlO0N7h .row {
+  flex-direction: row-reverse;
+}
+.cid-uzpWlO0N7h img {
+  width: 100%;
+}
+.cid-uzpWlO0N7h .mbr-description {
+  color: #000000;
+}
 .cid-voIk4prEQc {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1209,6 +1240,37 @@ a {
 .cid-uzpUX3Kv92 .mbr-description {
   color: #000000;
 }
+.cid-voIMfzR3TF {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0f0f0f;
+}
+.cid-voIMfzR3TF .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-voIMfzR3TF .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-voIMfzR3TF .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-voIMfzR3TF .row {
+  flex-direction: row-reverse;
+}
+.cid-voIMfzR3TF img {
+  width: 100%;
+}
+.cid-voIMfzR3TF .mbr-description {
+  color: #000000;
+}
 .cid-voCdGoIIP8 {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1269,37 +1331,6 @@ a {
   width: 100%;
 }
 .cid-uzcSR2GY3Q .mbr-description {
-  color: #000000;
-}
-.cid-uzpWlO0N7h {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #0f0f0f;
-}
-.cid-uzpWlO0N7h .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzpWlO0N7h .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-uzpWlO0N7h .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-uzpWlO0N7h .row {
-  flex-direction: row-reverse;
-}
-.cid-uzpWlO0N7h img {
-  width: 100%;
-}
-.cid-uzpWlO0N7h .mbr-description {
   color: #000000;
 }
 .cid-voIC7csd4J {
@@ -2375,5 +2406,46 @@ a {
 }
 .cid-voIxHPyQix .mbr-text,
 .cid-voIxHPyQix .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-voIIy2DP4n {
+  background-image: url("../../../assets/images/london-city.jpg");
+}
+.cid-voIIy2DP4n .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-voIIy2DP4n .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-voIIy2DP4n .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-voIIy2DP4n .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-voIIy2DP4n audio {
+    width: 100% !important;
+  }
+}
+.cid-voIIy2DP4n audio {
+  margin: auto;
+  display: block;
+}
+.cid-voIIy2DP4n .mbr-section-title {
+  color: #525252;
+}
+.cid-voIIy2DP4n .mbr-text,
+.cid-voIIy2DP4n .mbr-section-btn {
   color: #bbbbbb;
 }

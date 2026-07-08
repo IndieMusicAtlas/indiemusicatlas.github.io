@@ -1333,6 +1333,37 @@ a {
 .cid-uzcSR2GY3Q .mbr-description {
   color: #000000;
 }
+.cid-voNDUD9lOJ {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0f0f0f;
+}
+.cid-voNDUD9lOJ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-voNDUD9lOJ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-voNDUD9lOJ .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-voNDUD9lOJ .row {
+  flex-direction: row-reverse;
+}
+.cid-voNDUD9lOJ img {
+  width: 100%;
+}
+.cid-voNDUD9lOJ .mbr-description {
+  color: #000000;
+}
 .cid-voIC7csd4J {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1957,129 +1988,6 @@ a {
 .cid-uzuo0jRjJP .mbr-section-btn {
   color: #bbbbbb;
 }
-.cid-uzuoFuY9ZL {
-  background-image: url("../../../assets/images/split-hill-view.jpg");
-}
-.cid-uzuoFuY9ZL .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzuoFuY9ZL .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uzuoFuY9ZL .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uzuoFuY9ZL .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 60%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uzuoFuY9ZL audio {
-    width: 100% !important;
-  }
-}
-.cid-uzuoFuY9ZL audio {
-  margin: auto;
-  display: block;
-}
-.cid-uzuoFuY9ZL .mbr-section-title {
-  color: #525252;
-}
-.cid-uzuoFuY9ZL .mbr-text,
-.cid-uzuoFuY9ZL .mbr-section-btn {
-  color: #bbbbbb;
-}
-.cid-uzlINe44Sk {
-  background-image: url("../../../assets/images/manchester-1.jpg");
-}
-.cid-uzlINe44Sk .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uzlINe44Sk .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uzlINe44Sk .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uzlINe44Sk .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 60%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uzlINe44Sk audio {
-    width: 100% !important;
-  }
-}
-.cid-uzlINe44Sk audio {
-  margin: auto;
-  display: block;
-}
-.cid-uzlINe44Sk .mbr-section-title {
-  color: #525252;
-}
-.cid-uzlINe44Sk .mbr-text,
-.cid-uzlINe44Sk .mbr-section-btn {
-  color: #bbbbbb;
-}
-.cid-uX1mJwY6XH {
-  background-image: url("../../../assets/images/manchester-1.jpg");
-}
-.cid-uX1mJwY6XH .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uX1mJwY6XH .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uX1mJwY6XH .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uX1mJwY6XH .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 60%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uX1mJwY6XH audio {
-    width: 100% !important;
-  }
-}
-.cid-uX1mJwY6XH audio {
-  margin: auto;
-  display: block;
-}
-.cid-uX1mJwY6XH .mbr-section-title {
-  color: #525252;
-}
-.cid-uX1mJwY6XH .mbr-text,
-.cid-uX1mJwY6XH .mbr-section-btn {
-  color: #bbbbbb;
-}
 .cid-uzHFBvQV1O {
   background-image: url("../../../assets/images/dominica-background-3.jpg");
 }
@@ -2447,5 +2355,92 @@ a {
 }
 .cid-voIIy2DP4n .mbr-text,
 .cid-voIIy2DP4n .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-uzuoFuY9ZL {
+  background-image: url("../../../assets/images/providence-rhode-island.jpg");
+}
+.cid-uzuoFuY9ZL .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uzuoFuY9ZL .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uzuoFuY9ZL .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-uzuoFuY9ZL .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 40%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-uzuoFuY9ZL audio {
+    width: 100% !important;
+  }
+}
+.cid-uzuoFuY9ZL audio {
+  margin: auto;
+  display: block;
+}
+.cid-uzuoFuY9ZL .mbr-section-title {
+  color: #525252;
+}
+.cid-uzuoFuY9ZL .mbr-text,
+.cid-uzuoFuY9ZL .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-voNHv7BIyZ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-voNAxqQBS9 {
+  background-image: url("../../../assets/images/providence-rhode-island.jpg");
+}
+.cid-voNAxqQBS9 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-voNAxqQBS9 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-voNAxqQBS9 .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-voNAxqQBS9 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 40%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-voNAxqQBS9 audio {
+    width: 100% !important;
+  }
+}
+.cid-voNAxqQBS9 audio {
+  margin: auto;
+  display: block;
+}
+.cid-voNAxqQBS9 .mbr-section-title {
+  color: #525252;
+}
+.cid-voNAxqQBS9 .mbr-text,
+.cid-voNAxqQBS9 .mbr-section-btn {
   color: #bbbbbb;
 }

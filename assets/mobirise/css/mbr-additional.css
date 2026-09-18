@@ -2516,13 +2516,13 @@ a {
 .cid-voT6ruDlv2 .mbr-section-btn {
   color: #bbbbbb;
 }
-.cid-vvhD9OscpY {
+.cid-vvBIjwUUyD {
   background-image: url("../../../assets/images/brooklyn-light-colour.jpg");
 }
-.cid-vvhD9OscpY .mbr-fallback-image.disabled {
+.cid-vvBIjwUUyD .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-vvhD9OscpY .mbr-fallback-image {
+.cid-vvBIjwUUyD .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2531,29 +2531,29 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-vvhD9OscpY .image-wrap img {
+.cid-vvBIjwUUyD .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-vvhD9OscpY .image-wrap img {
+  .cid-vvBIjwUUyD .image-wrap img {
     display: block;
     margin: auto;
     width: 40%;
   }
 }
 @media (max-width: 768px) {
-  .cid-vvhD9OscpY audio {
+  .cid-vvBIjwUUyD audio {
     width: 100% !important;
   }
 }
-.cid-vvhD9OscpY audio {
+.cid-vvBIjwUUyD audio {
   margin: auto;
   display: block;
 }
-.cid-vvhD9OscpY .mbr-section-title {
+.cid-vvBIjwUUyD .mbr-section-title {
   color: #525252;
 }
-.cid-vvhD9OscpY .mbr-text,
-.cid-vvhD9OscpY .mbr-section-btn {
+.cid-vvBIjwUUyD .mbr-text,
+.cid-vvBIjwUUyD .mbr-section-btn {
   color: #bbbbbb;
 }

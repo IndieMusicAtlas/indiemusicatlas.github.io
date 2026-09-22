@@ -1612,15 +1612,15 @@ a {
 .cid-uzcSPeISnW .mbr-description {
   color: #000000;
 }
-.cid-vvWs9OMKHA {
+.cid-vvWVSxiODv {
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #0f0f0f;
 }
-.cid-vvWs9OMKHA .mbr-fallback-image.disabled {
+.cid-vvWVSxiODv .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-vvWs9OMKHA .mbr-fallback-image {
+.cid-vvWVSxiODv .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1630,17 +1630,17 @@ a {
   top: 0;
 }
 @media (max-width: 991px) {
-  .cid-vvWs9OMKHA .image-wrapper {
+  .cid-vvWVSxiODv .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-vvWs9OMKHA .row {
+.cid-vvWVSxiODv .row {
   flex-direction: row-reverse;
 }
-.cid-vvWs9OMKHA img {
+.cid-vvWVSxiODv img {
   width: 100%;
 }
-.cid-vvWs9OMKHA .mbr-description {
+.cid-vvWVSxiODv .mbr-description {
   color: #000000;
 }
 .cid-vvTyPGY7zp {
@@ -1765,6 +1765,37 @@ a {
   width: 100%;
 }
 .cid-voIMfzR3TF .mbr-description {
+  color: #000000;
+}
+.cid-vvWs9OMKHA {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0f0f0f;
+}
+.cid-vvWs9OMKHA .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vvWs9OMKHA .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-vvWs9OMKHA .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vvWs9OMKHA .row {
+  flex-direction: row-reverse;
+}
+.cid-vvWs9OMKHA img {
+  width: 100%;
+}
+.cid-vvWs9OMKHA .mbr-description {
   color: #000000;
 }
 .cid-uJOp87aLf0 {
@@ -2766,5 +2797,46 @@ a {
 }
 .cid-vvWrXFgSB8 .mbr-text,
 .cid-vvWrXFgSB8 .mbr-section-btn {
+  color: #bbbbbb;
+}
+.cid-vvWR8wv3jW {
+  background-image: url("../../../assets/images/london-city.jpg");
+}
+.cid-vvWR8wv3jW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vvWR8wv3jW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vvWR8wv3jW .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-vvWR8wv3jW .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 40%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-vvWR8wv3jW audio {
+    width: 100% !important;
+  }
+}
+.cid-vvWR8wv3jW audio {
+  margin: auto;
+  display: block;
+}
+.cid-vvWR8wv3jW .mbr-section-title {
+  color: #525252;
+}
+.cid-vvWR8wv3jW .mbr-text,
+.cid-vvWR8wv3jW .mbr-section-btn {
   color: #bbbbbb;
 }
